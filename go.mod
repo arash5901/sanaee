@@ -17,7 +17,7 @@ require (
 	github.com/xtls/xray-core v1.8.10
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.14.0
-	google.golang.org/grpc v1.62.1
+	google.golang.org/grpc v1.63.2
 	gorm.io/driver/sqlite v1.5.5
 	gorm.io/gorm v1.25.9
 )
@@ -38,7 +38,6 @@ require (
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-playground/validator/v10 v10.19.0 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
-	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/btree v1.1.2 // indirect
 	github.com/google/pprof v0.0.0-20240227163752-401108e1b7e7 // indirect
 	github.com/gorilla/context v1.1.2 // indirect
